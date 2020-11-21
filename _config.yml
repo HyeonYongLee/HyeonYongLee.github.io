@@ -16,7 +16,7 @@ lin:
   # generate social links
   social_links:
     github:  "HyeonYongLee.github.io"
-    linkedin: jekyll
+    linkedin: "HYEONYONG LEE"
 theme: lin
 
 plugins:
