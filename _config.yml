@@ -1,9 +1,9 @@
-title: Hello
+title: HyeonYongLee's blog
 author: HyeonYongLee
 email: HyeonYongLee.dev@gmail.com
 copyright: © 2019 GitHub User
 description: > # this means to ignore newlines until "show_excerpts:"
-  Hello Hello
+  Hi this is my first git blog
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
